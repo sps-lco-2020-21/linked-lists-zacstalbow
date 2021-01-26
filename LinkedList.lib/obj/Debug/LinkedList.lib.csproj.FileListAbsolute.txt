@@ -1,0 +1,6 @@
+C:\Users\zac\source\repos\LinkedList.tests\LinkedList.lib\bin\Debug\LinkedList.lib.dll
+C:\Users\zac\source\repos\LinkedList.tests\LinkedList.lib\bin\Debug\LinkedList.lib.pdb
+C:\Users\zac\source\repos\LinkedList.tests\LinkedList.lib\obj\Debug\LinkedList.lib.csprojAssemblyReference.cache
+C:\Users\zac\source\repos\LinkedList.tests\LinkedList.lib\obj\Debug\LinkedList.lib.csproj.CoreCompileInputs.cache
+C:\Users\zac\source\repos\LinkedList.tests\LinkedList.lib\obj\Debug\LinkedList.lib.dll
+C:\Users\zac\source\repos\LinkedList.tests\LinkedList.lib\obj\Debug\LinkedList.lib.pdb
